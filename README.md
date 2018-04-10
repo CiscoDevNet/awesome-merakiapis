@@ -2,6 +2,10 @@
 
 A curated list of Meraki API scripts for Developers, inspired by [awesome-go](https://github.com/avelino/awesome-go) and [awesome-python](https://github.com/vinta/awesome-python).
 
+## Location
+
+- [Meraki Indoor Location](https://github.com/IndoorLocation/meraki-indoor-location): Tools to use Meraki Location API with the [IndoorLocation.io](https://www.indoorlocation.io) framework. Easily develop location-based services in your mobile and web app.
+
 
 ### Contributing
 
