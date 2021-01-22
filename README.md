@@ -36,20 +36,20 @@ DISCLAIMER: Cisco Meraki does not make any commitments about the resources liste
 
 *Libraries for create custom dashboards.*
 
-* [DashboardAPI](https://github.com/jletizia/dashboardapi) - Ruby implementation of the Meraki Dashboard API
-.
+* [DashboardAPI](https://github.com/jletizia/dashboardapi) - Ruby implementation of the Meraki Dashboard API.
 * [node-meraki-dashboard](https://github.com/tejashah88/node-meraki-dashboard) - A slightly opinionated node.js client library for using the Meraki Dashboard API.
 * [meraki-dashboard-pwa-admin](https://github.com/dexterlabora/meraki-dashboard-pwa-admin) - A Vue.JS Progressive Web App for the Meraki Dashboard. This is a collection of tools and meraki services to manage a cloud network.
 * [meraki-dashboard-vue-admin](https://github.com/dexterlabora/meraki-dashboard-vue-admin) - A custom dashboard using the Meraki Dashboard API and Vue.js. It provides a backend Express server to route API requests.
 * [meraki-ionic-app](https://github.com/dexterlabora/meraki-ionic-app) - An Ionic 2 based mobile app for the Meraki Dashboard API. It attempts to demonstrate the various possibilities with the API. This is a work in progress.
 * [meraki-dashboard](https://github.com/shiyuechengineer/meraki-dashboard) - Python 3.6 module providing all current Meraki Dashboard API calls to interface with the Cisco Meraki cloud-managed IT solutions.
 * [Meraki.Dashboard](https://github.com/DimensionDataCBUSydney/Meraki.Dashboard) - A strong-typed, mockable Cisco Meraki Dashboard API .Net Standard client library.
-* 
+
 
 ## Administration
 
 *Libraries for administration and monitoring.*
 
+* [automation-scripts](https://github.com/meraki/automation-scripts) - Meraki Dashboard API automation/migration scripts in Python (by Meraki).
 * [meraki_logstash](https://github.com/cs3gallery/meraki_logstash) - Monitor all your Events, IDS, Flows, and URL Syslog information. Works and tested with Logstash v1.5.
 * [LEDE-MR33](https://github.com/riptidewave93/LEDE-MR33) - Bringup for the Cisco Meraki MR33 Access Point on LEDE (Linux Embedded Development Environment).
 * [meraki_functions](https://github.com/snagler/meraki_functions) - These are a set of functions to interact with the Meraki cloud via the REST API.
